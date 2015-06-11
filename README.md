@@ -14,5 +14,5 @@
 
 #### 参考
 
-* [](http://wiki.nginx.org/NginxHttpSslModule)
+* [这里](http://wiki.nginx.org/NginxHttpSslModule)抄的创建证书文件
 
